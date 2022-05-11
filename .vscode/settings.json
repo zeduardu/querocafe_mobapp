@@ -1,0 +1,8 @@
+{
+  "dart.lineLength": 128,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Fira Code",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.fontLigatures": true
+}

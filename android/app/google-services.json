@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474640885275",
+    "project_id": "querocafe-qc",
+    "storage_bucket": "querocafe-qc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474640885275:android:2de866223d0e196055fabe",
+        "android_client_info": {
+          "package_name": "br.dev.zeduardu.querocafe_mobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474640885275-u5ashannnodhg6ia9i4s5hussrjqg8sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxv2lMDzBaKM-cijm_ykfKxHm3fAIQJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474640885275-u5ashannnodhg6ia9i4s5hussrjqg8sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474640885275-a2qm1g8nkvev35b1eptf20p9eapmc97g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.dev.zeduardu.querocafeMobapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
